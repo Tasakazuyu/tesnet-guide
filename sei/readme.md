@@ -4,12 +4,6 @@ Official documentation:
 >- [Validator setup instructions](https://docs.seinetwork.io/nodes-and-validators/seinami-incentivized-testnet/joining-incentivized-testnet)
 Chain explorer:
 >- [Explorer from Nodes.Guru](https://sei.explorers.guru/)
-## Usefull tools and references
-> To set up monitoring for your validator node navigate to [Set up monitoring and alerting for sei validator](https://github.com/kj89/testnet_manuals/blob/main/sei/monitoring/README.md)
->
-> To migrate your validator to another machine read [Migrate your validator to another machine](https://github.com/kj89/testnet_manuals/blob/main/sei/migrate_validator.md)
-## Hardware Requirements
-Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 
 ### Minimum Hardware Requirements
  - 3x CPUs; the faster clock speed the better
@@ -24,14 +18,12 @@ Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
  - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
 
 ## Set up your sei fullnode
-### Option 1 (automatic)
+### Automatic
 You can setup your sei fullnode in few minutes by using automated script below. It will prompt you to input your validator node name!
 ```
 wget -O sei.sh https://raw.githubusercontent.com/Tasakazuyu/tesnet-guide/main/sei/sei.sh && chmod +x sei.sh && ./sei.sh
 ```
 
-### Option 2 (manual)
-You can follow [manual guide](https://github.com/kj89/testnet_manuals/blob/main/sei/manual_install.md) if you better prefer setting up node manually
 
 ## Post installation
 
