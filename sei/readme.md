@@ -1,4 +1,4 @@
-# sei node setup for Testnet — atlantic-1
+# Sei node setup for Testnet — atlantic-1
 
 Official documentation:
 >- [Validator setup instructions](https://docs.seinetwork.io/nodes-and-validators/seinami-incentivized-testnet/joining-incentivized-testnet)
