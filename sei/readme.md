@@ -129,16 +129,6 @@ sudo ufw allow ${SEI_PORT}656,${SEI_PORT}660/tcp
 sudo ufw enable
 ```
 
-## Monitoring
-To monitor and get alerted about your validator health status you can use my guide on [Set up monitoring and alerting for sei validator](https://github.com/kj89/testnet_manuals/blob/main/sei/monitoring/README.md)
-
-## Calculate synchronization time
-This script will help you to estimate how much time it will take to fully synchronize your node\
-It measures average blocks per minute that are being synchronized for period of 5 minutes and then gives you results
-```
-wget -O synctime.py https://raw.githubusercontent.com/kj89/testnet_manuals/main/sei/tools/synctime.py && python3 ./synctime.py
-```
-
 ### Get list of validators
 ```
 seid q staking validators -oj --limit=3000 | jq '.validators[] | select(.status=="BOND_STATUS_BONDED")' | jq -r '(.tokens|tonumber/pow(10; 6)|floor|tostring) + " \t " + .description.moniker' | sort -gr | nl
