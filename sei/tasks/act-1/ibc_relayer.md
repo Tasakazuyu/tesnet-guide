@@ -1,4 +1,9 @@
-# Set up a relayer / ibc channel with another testnet
+<p align="center">
+<img height="180" height="auto" src="https://user-images.githubusercontent.com/109075185/194778580-7d4ed42a-b0b3-453a-9247-844b9b563cf3.png"
+     </p>
+
+# Set up a relayer / ibc channel with another testnet!
+
 In current example we will learn how to set up IBC relayer between two cosmos chains
 
 ## Preparation before you start
