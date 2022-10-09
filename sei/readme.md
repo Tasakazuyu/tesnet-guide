@@ -1,3 +1,7 @@
+<p align="center">
+<img height="180" height="auto" src="https://user-images.githubusercontent.com/109075185/194766953-9e45d17f-3933-4f74-91a7-b31a1171502d.png">
+</p>
+
 # Sei node setup for Testnet — atlantic-1
 
 Official documentation:
@@ -78,7 +82,7 @@ source $HOME/.bash_profile
 ```
 
 ### Fund your wallet
-To top up your wallet join [Sei discord server](https://discord.gg/sPsUN6ay) and navigate to **#atlantic-1-faucet** channel
+To top up your wallet join [Sei discord server](https://discord.com/invite/kY6byr37af) and navigate to **#atlantic-1-faucet** channel
 
 To request a faucet grant:
 ```
