@@ -1,18 +1,23 @@
 #!/bin/bash
 
 echo -e "\033[0;36m"
-echo " _________    _       ______       _       _   _       _       ________                               ";
-echo "|___   ___|  /_\     |  ____|     /_\     | | / |     /_\     |_____  /  ||     || \\     // ||     ||";
-echo "    | |     // \\    | |____     // \\    | |/ /     // \\         / /   ||     ||  \\   //  ||     ||";
-echo "    | |    //===\\   |____  |   //===\\   | |-/     //===\\       / /    ||     ||   \|||/   ||     ||";
-echo "    | |   //     \\   ____| |  //     \\  | |\ \   //     \\   __/ /___  \\     //    |||    \\     //";
-echo "    |_|  //       \\ |______| //       \\ |_| \_\ //       \\ |________|  \\___//     |||     \\___// ";
-echo " ___     _    ______    ____    ______   _______                                                      ";
-echo "|   \   | |  / ____ \  |  _ \  | _____| |  _____|                                                     ";
-echo "| |\ \  | | | / __ \ | | | \ | | |____  | |_____                                                      ";
-echo "| | \ \ | | | ||__|| | | | | | |  ____| |_____  |                                                     ";
-echo "| |  \ \| | | \____/ | | |_/ | | |____   _____| |                                                     ";
-echo "|_|   \___|  \______/  |____/  |______| |_______|                                                     ";
+echo " MMP""MM""YMM                       `7MM                                                           ";  
+echo " P'   MM   `7                         MM                                                           "; 
+echo "      MM   ,6"Yb.  ,pP"Ybd  ,6"Yb.    MM  ,MP' ,6"Yb.  M"""MMV `7MM  `7MM `7M'   `MF'`7MM  `7MM    ";  
+echo "      MM  8)   MM  8I   `" 8)   MM    MM ;Y   8)   MM  '  AMV    MM    MM   VA   ,V    MM    MM    ";  
+echo "      MM   ,pm9MM  `YMMMa.  ,pm9MM    MM;Mm    ,pm9MM    AMV     MM    MM    VA ,V     MM    MM    ";  
+echo "      MM  8M   MM  L.   I8 8M   MM    MM `Mb. 8M   MM   AMV  ,   MM    MM     VVV      MM    MM    ";  
+echo "    .JMML.`Moo9^Yo.M9mmmP' `Moo9^Yo..JMML. YA.`Moo9^Yo.AMMmmmM   `Mbod"YML.   ,V       `Mbod"YML.  ";
+echo "                                                                             ,V                    ";
+echo "                                                                          OOb"                     ";                                                   
+echo "                              ,,                                                                   ";
+echo " `7MN.   `7MF'              `7MM                                                                   ";
+echo "   MMN.    M                  MM                                                                   ";
+echo "   M YMb   M  ,pW"Wq.    ,M""bMM  .gP"Ya  ,pP"Ybd                                                  ";
+echo "   M  `MN. M 6W'   `Wb ,AP    MM ,M'   Yb 8I   `"                                                  ";
+echo "   M   `MM.M 8M     M8 8MI    MM 8M"""""" `YMMMa.                                                  ";
+echo "   M     YMM YA.   ,A9 `Mb    MM YM.    , L.   I8                                                  ";
+echo " .JML.    YM  `Ybmd9'   `Wbmd"MML.`Mbmmd' M9mmmP'                                                  ";                                                                 
 echo -e "\e[0m"
 
 sleep 2
