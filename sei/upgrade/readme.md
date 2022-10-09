@@ -13,6 +13,7 @@ cd $HOME && rm $HOME/sei-chain -rf
 git clone https://github.com/sei-protocol/sei-chain.git && cd $HOME/sei-chain
 git checkout 1.2.2beta
 make install
+mv $HOME/go/bin/seid    $HOME/.sei/cosmovisor/upgrades/1.1.2beta/bin/seid
 sudo systemctl restart seid && journalctl -fu seid -o cat
 ```
 
