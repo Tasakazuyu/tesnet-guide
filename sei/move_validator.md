@@ -1,7 +1,7 @@
 <p align="center">
 <img height="180" height="auto" src="https://user-images.githubusercontent.com/109075185/194767660-667da0ee-1bf5-409e-a884-3cd4245bd109.png">
 
-# Migrate your validator to another machine
+# Move your validator to another machine
 
 ### 1. Run a new full node on a new machine
 To setup full node you can follow my guide [Sei node setup for testnet](https://github.com/Tasakazuyu/tesnet-guide/blob/main/sei/readme.md)
